@@ -1,0 +1,15 @@
+﻿## Interface: 50400
+## X-Min-Interface: 50001
+## Title:|cffffe00a<|r|cffff7d0aVEM|r|cffffe00a>|r |cff69ccf0VEM-Sound-Yun|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aVEM|r|cffffe00a>|r |cff69ccf0VEM-芷小芸語音包|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aVEM|r|cffffe00a>|r |cff69ccf0VEM-芷小芸语音包|r
+## Author: Zhi Xiaoyun
+## RequiredDeps: VEM-Core
+## X-VEM-Mod-SoundFile: yun
+## X-VEM-Mod-SoundFileName: Zhi Xiaoyun(TW)
+## X-VEM-Mod-SoundFileName-zhTW: 芷小芸(TW)
+## X-VEM-Mod-SoundFileName-zhCN: 芷小芸(TW)
+## X-VEM-Mod-SoundFilePIC: 1
+## X-VEM-Mod-SoundFileUsage:     Xiaoyun Zhi, WOW player from Taiwan, beautiful girl. Human DK from Black Hand Village @ TW-World Tree.
+## X-VEM-Mod-SoundFileUsage-zhTW:    芷小芸，來自中國台灣省的魔獸世界美女玩家，現為台服世界之樹《黑手之鄉》公會人類死亡騎士。
+## X-VEM-Mod-SoundFileUsage-zhCN:    芷小芸，来自中国台湾省的魔兽世界美女玩家，现为台服世界之树《黑手之乡》公会人类死亡骑士。
